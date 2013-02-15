@@ -1,0 +1,137 @@
+# depslib dependency file v1.0
+1357869660 source:c:\users\lara mae\downloads\programming\01.11.13\main.cpp
+	"Player.h"
+	<iostream>
+
+1357869127 source:c:\users\lara mae\downloads\programming\01.11.13\player.cpp
+	"Player.h"
+
+1357869092 c:\users\lara mae\downloads\programming\01.11.13\player.h
+	<string>
+
+1357869128 source:f:\01.11.13\player.cpp
+	"Player.h"
+
+1358474286 f:\01.11.13\player.h
+	<string>
+
+1358472758 source:f:\01.11.13\main.cpp
+	"Player.h"
+	"Board.h"
+	"Game.h"
+	<iostream>
+
+1358472064 source:f:\01.11.13\board.cpp
+	"Board.h"
+	<iostream>
+
+1358473950 f:\01.11.13\board.h
+
+1358473660 f:\01.11.13\game.h
+	<string>
+
+1359072392 source:e:\01.11.13\game.cpp
+	"Game.h"
+	"Player.h"
+	"Board.h"
+	<iostream>
+	<string>
+
+1359065436 e:\01.11.13\game.h
+	<string>
+	<iostream>
+	"Board.h"
+	"Player.h"
+
+1359066708 e:\01.11.13\board.h
+
+1358531886 e:\01.11.13\player.h
+	<string>
+
+1359066290 source:e:\01.11.13\player.cpp
+	"Player.h"
+	<iostream>
+
+1359069940 source:e:\01.11.13\board.cpp
+	"Board.h"
+	"Player.h"
+	<iostream>
+	<cstdlib>
+
+1359060950 source:e:\01.11.13\main.cpp
+	"Player.h"
+	"Board.h"
+	"Game.h"
+	<iostream>
+	<string>
+
+1359066290 source:d:\g\files\coe\second sem\01.11.13\player.cpp
+	"Player.h"
+	<iostream>
+
+1358531886 d:\g\files\coe\second sem\01.11.13\player.h
+	<string>
+
+1359123183 source:d:\g\files\coe\second sem\01.11.13\main.cpp
+	"Player.h"
+	"Board.h"
+	"Game.h"
+	<iostream>
+	<string>
+
+1359122914 d:\g\files\coe\second sem\01.11.13\board.h
+
+1359123176 d:\g\files\coe\second sem\01.11.13\game.h
+	<string>
+	<iostream>
+	"Board.h"
+	"Player.h"
+
+1359126264 source:d:\g\files\coe\second sem\01.11.13\game.cpp
+	"Game.h"
+	"Player.h"
+	"Board.h"
+	<iostream>
+	<string>
+
+1359122971 source:d:\g\files\coe\second sem\01.11.13\board.cpp
+	"Board.h"
+	"Player.h"
+	<iostream>
+	<cstdlib>
+
+1359122972 source:c:\users\ma. leslie\downloads\programs\programs\tictactoe\board.cpp
+	"Board.h"
+	"Player.h"
+	<iostream>
+	<cstdlib>
+
+1359122916 c:\users\ma. leslie\downloads\programs\programs\tictactoe\board.h
+
+1358531886 c:\users\ma. leslie\downloads\programs\programs\tictactoe\player.h
+	<string>
+
+1359126266 source:c:\users\ma. leslie\downloads\programs\programs\tictactoe\game.cpp
+	"Game.h"
+	"Player.h"
+	"Board.h"
+	<iostream>
+	<string>
+
+1359123178 c:\users\ma. leslie\downloads\programs\programs\tictactoe\game.h
+	<string>
+	<iostream>
+	"Board.h"
+	"Player.h"
+
+1359123184 source:c:\users\ma. leslie\downloads\programs\programs\tictactoe\main.cpp
+	"Player.h"
+	"Board.h"
+	"Game.h"
+	<iostream>
+	<string>
+
+1359066290 source:c:\users\ma. leslie\downloads\programs\programs\tictactoe\player.cpp
+	"Player.h"
+	<iostream>
+
